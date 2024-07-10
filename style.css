@@ -18,6 +18,7 @@ h1{
 
 .container {
   width: 400px;
+  margin-top: 60px;
   padding: 25px 35px;
   background-color: #fffe;
   position: absolute; /* start from - used to center the item using absolute position */
