@@ -13,6 +13,7 @@ h1{
   color: rgba(255, 255, 255, 0.557);
   text-align: center;
   margin-top: 30px;
+  font-size: 8vw;
 }
 
 .container {
@@ -102,6 +103,10 @@ h1{
   
   .container{
     max-width: 350px;
+  }
+  h1{
+    margin-top: 50px;
+    font-size: 9vw;
   }
   
 }
