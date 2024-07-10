@@ -3,12 +3,12 @@ This is a fun and interactive QR Code Generator built using HTML, CSS, and JavaS
 
 
 # Features
- -Simple and user-friendly interface
- -Real-time QR code generation
- -Customizable QR code size
- -Downloadable QR codes
+ *Simple and user-friendly interface
+ *Real-time QR code generation
+ *Customizable QR code size
+ *Downloadable QR codes
 # Technologies Used
- -HTML
- -CSS
- -JavaScript
- -QR Code API
+ *HTML
+ *CSS
+ *JavaScript
+ *QR Code API
